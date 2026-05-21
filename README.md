@@ -1,7 +1,15 @@
 # Olá, eu sou Pietro Fernandes Stefanuto 👋
 
-Estudante de Segurança da Informação na Fatec (1º semestre) e desenvolvedor na Best Projects.
-Meu objetivo é me tornar um Pentester.
+## 💫 Sobre Mim:
+🎓 Estou estudando: Segurança da Informação na Fatec (1º semestre), explorando o mundo da defesa e ataque em sistemas.
+
+💼 Estou trabalhando em: Projetos de desenvolvimento na Best Projects, aplicando C#, JavaScript e Power Fx no dia a dia.
+
+🔐 Meu objetivo: Me tornar um Pentester e atuar na área de segurança ofensiva.
+
+🌱 Estou aprendendo: Python aplicado à segurança, automação de tarefas e boas práticas de desenvolvimento seguro.
+
+💬 Me pergunte sobre: Segurança da informação, geração de senhas seguras, Python e desenvolvimento de software.
 
 ## 🛠️ Tecnologias que uso
 
@@ -9,13 +17,6 @@ Meu objetivo é me tornar um Pentester.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Power Fx](https://img.shields.io/badge/Power_Fx-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-
-## 🎯 Sobre mim
-
-- 🎓 Estudando **Segurança da Informação** na Fatec
-- 💼 Trabalhando na **Best Projects**
-- 🔐 Objetivo: me tornar um **Pentester**
-- 🐍 Atualmente aprendendo mais sobre **Python** e **Segurança Ofensiva**
 
 ## 📌 Projetos
 
