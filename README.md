@@ -1,15 +1,20 @@
 # Olá, eu sou Pietro Fernandes Stefanuto 👋
 
 ## 💫 Sobre Mim:
-🎓 Estou estudando: Segurança da Informação na Fatec (1º semestre), explorando o mundo da defesa e ataque em sistemas.
+🎓 Estou estudando: 
+Segurança da Informação na Fatec (1º semestre), explorando o mundo da defesa e ataque em sistemas.
 
-💼 Estou trabalhando em: Projetos de desenvolvimento na Best Projects, aplicando C#, JavaScript e Power Fx no dia a dia.
+💼 Estou trabalhando em: 
+Projetos de desenvolvimento na Best Projects, aplicando C#, JavaScript e Power Fx no dia a dia.
 
-🔐 Meu objetivo: Me tornar um Pentester e atuar na área de segurança ofensiva.
+🔐 Meu objetivo: 
+Me tornar um Pentester e atuar na área de segurança ofensiva.
 
-🌱 Estou aprendendo: Python aplicado à segurança, automação de tarefas e boas práticas de desenvolvimento seguro.
+🌱 Estou aprendendo: 
+Python aplicado à segurança, automação de tarefas e boas práticas de desenvolvimento seguro.
 
-💬 Me pergunte sobre: Segurança da informação, geração de senhas seguras, Python e desenvolvimento de software.
+💬 Me pergunte sobre: 
+Segurança da informação, geração de senhas seguras, Python e desenvolvimento de software.
 
 ## 🛠️ Tecnologias que uso
 
