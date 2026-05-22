@@ -35,18 +35,6 @@ Meu principal objetivo é evoluir na área de Cybersecurity, especialmente em Pe
 
 ---
 
-## 💼 Experiência
-
-🚀 Atualmente desenvolvendo projetos na :contentReference[oaicite:1]{index=1}, empresa especializada em consultoria e soluções Microsoft. :contentReference[oaicite:2]{index=2}
-
-### Atividades:
-- Desenvolvimento com C#
-- JavaScript
-- Power Fx
-- Automação de processos
-- Soluções corporativas
-
----
 
 ## 📌 Projetos
 
@@ -64,15 +52,7 @@ Versão do gerador de senhas desenvolvida em C#.
 
 ---
 
-## 📊 Estatísticas GitHub
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pietro-sys&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietro-sys&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🌱 Atualmente Aprendendo
 
@@ -82,6 +62,16 @@ Versão do gerador de senhas desenvolvida em C#.
 - Redes de computadores
 - Desenvolvimento seguro
 - Fundamentos de Pentest
+
+---
+## 🎯 Objetivos
+
+- Evoluir constantemente na área de Segurança da Informação
+- Me especializar em Segurança Ofensiva e Pentest
+- Aprimorar minhas habilidades em Python e automação
+- Desenvolver projetos cada vez mais completos e organizados
+- Contribuir para projetos open source futuramente
+- Construir uma carreira sólida em Cybersecurity
 
 ---
 
