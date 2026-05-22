@@ -48,15 +48,7 @@ Versão do gerador de senhas desenvolvida em C#.
 
 ---
 
-## 📊 Estatísticas GitHub
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pietro-sys&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietro-sys&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🌱 Atualmente Aprendendo
 
@@ -74,5 +66,9 @@ Versão do gerador de senhas desenvolvida em C#.
 <p align="left">
   <a href="https://github.com/pietro-sys">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/pietro-fernandes-s-2897ba400/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
