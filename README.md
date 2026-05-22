@@ -15,7 +15,7 @@ Atualmente estudo Segurança da Informação e desenvolvo projetos voltados para
 
 Tenho experiência com desenvolvimento utilizando C#, JavaScript, Python e Power Fx, além de conhecimentos técnicos em modelagem e projetos através do AutoCAD e Revit.
 
-Atualmente também atuo na empresa Best.Projects, uma consultoria especializada em soluções Microsoft e transformação digital. :contentReference[oaicite:0]{index=0}
+Atualmente também atuo na empresa Best.Projects, uma consultoria especializada em soluções Microsoft e transformação digital.
 
 Meu principal objetivo é evoluir na área de Cybersecurity, especialmente em Pentest, Red Team e automação com Python.
 
