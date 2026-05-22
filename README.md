@@ -2,10 +2,11 @@
 
 ## 💫 Sobre Mim:
 🎓 Estou estudando: 
+
 Segurança da Informação na Fatec (1º semestre), explorando o mundo da defesa e ataque em sistemas.
 
 💼 Estou trabalhando em: 
-Projetos de desenvolvimento na Best Projects, aplicando C#, JavaScript e Power Fx no dia a dia.
+\nProjetos de desenvolvimento na Best Projects, aplicando C#, JavaScript e Power Fx no dia a dia.
 
 🔐 Meu objetivo: 
 Me tornar um Pentester e atuar na área de segurança ofensiva.
