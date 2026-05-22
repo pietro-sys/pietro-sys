@@ -6,7 +6,7 @@
 Segurança da Informação na Fatec (1º semestre), explorando o mundo da defesa e ataque em sistemas.
 
 💼 Estou trabalhando em: 
-\nProjetos de desenvolvimento na Best Projects, aplicando C#, JavaScript e Power Fx no dia a dia.
+Projetos de desenvolvimento na Best Projects, aplicando C#, JavaScript e Power Fx no dia a dia.
 
 🔐 Meu objetivo: 
 Me tornar um Pentester e atuar na área de segurança ofensiva.
@@ -27,3 +27,4 @@ Segurança da informação, geração de senhas seguras, Python e desenvolviment
 ## 📌 Projetos
 
 - [Gerador de Senhas](https://github.com/pietro-sys/Gerador-de-Senhas) — Gerador de senhas seguras em Python
+- [Gerador de Senhas](https://github.com/pietro-sys/Gerador-de-senha-C) - Gerador de senhas seguras em C#
