@@ -1,30 +1,78 @@
 # Olá, eu sou Pietro Fernandes Stefanuto 👋
 
-## 💫 Sobre Mim:
-🎓 Estou estudando: 
+<p align="left">
+  🎓 Estudando Segurança da Informação na Fatec <br>
+  🏗️ Formação técnica em Edificações, com experiência em AutoCAD e Revit <br>
+  💻 Desenvolvendo projetos com C#, JavaScript, Python e Power Fx <br>
+  🔐 Focado em Segurança Ofensiva, Pentest e automação <br>
+</p>
 
-Segurança da Informação na Fatec (1º semestre), explorando o mundo da defesa e ataque em sistemas.
+---
 
-💼 Estou trabalhando em: 
-Projetos de desenvolvimento na Best Projects, aplicando C#, JavaScript e Power Fx no dia a dia.
+## 💫 Sobre Mim
 
-🔐 Meu objetivo: 
-Me tornar um Pentester e atuar na área de segurança ofensiva.
+Atualmente estudo Segurança da Informação e desenvolvo projetos voltados para automação, desenvolvimento de software e segurança ofensiva.
 
-🌱 Estou aprendendo: 
-Python aplicado à segurança, automação de tarefas e boas práticas de desenvolvimento seguro.
+Tenho experiência com desenvolvimento utilizando C#, JavaScript e Python, além de conhecimentos técnicos em modelagem e projetos através do AutoCAD e Revit.
 
-💬 Me pergunte sobre: 
-Segurança da informação, geração de senhas seguras, Python e desenvolvimento de software.
+Meu principal objetivo é evoluir na área de Cybersecurity, especialmente em Pentest, Red Team e desenvolvimento seguro.
 
-## 🛠️ Tecnologias que uso
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Power Fx](https://img.shields.io/badge/Power_Fx-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+## 🚀 Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_Fx-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
 
 ## 📌 Projetos
 
-- [Gerador de Senhas](https://github.com/pietro-sys/Gerador-de-Senhas) — Gerador de senhas seguras em Python
-- [Gerador de Senhas](https://github.com/pietro-sys/Gerador-de-senha-C) - Gerador de senhas seguras em C#
+### 🔐 Gerador de Senhas — Python
+Gerador de senhas seguras desenvolvido em Python com foco em automação e boas práticas.
+
+🔗 https://github.com/pietro-sys/Gerador-de-Senhas
+
+---
+
+### 🔐 Gerador de Senhas — C#
+Versão do gerador de senhas desenvolvida em C#.
+
+🔗 https://github.com/pietro-sys/Gerador-de-senha-C
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pietro-sys&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietro-sys&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌱 Atualmente Aprendendo
+
+- Python aplicado à segurança
+- Linux e terminal
+- Redes de computadores
+- Desenvolvimento seguro
+- Automação de tarefas
+- Fundamentos de Pentest
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://github.com/pietro-sys">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
