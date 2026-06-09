@@ -73,6 +73,7 @@ Projeto desenvolvido utilizando Programação Orientada a Objetos (POO), simulan
 * Segurança da Informação
 * Python aplicado à Cybersecurity
 * Programação Orientada a Objetos
+* Desenvolvimento de API
 * Microsoft Azure
 * SQL e Banco de Dados
 * Redes de Computadores
