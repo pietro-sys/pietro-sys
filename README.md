@@ -1,32 +1,32 @@
-# Olá, eu sou Pietro Fernandes Stefanuto 👋
+# Hi there, I'm Pietro Fernandes Stefanuto 👋
 
 <p align="left">
-  🎓 Estudante de Segurança da Informação na Fatec São Caetano do Sul<br>
-  💼 Estagiário de Desenvolvimento na Best Projects<br>
-  💻 Desenvolvimento com Python, C#, JavaScript, SQL e Power Fx<br>
-  ⚙️ Automação de processos com Power Apps, Power Automate e Dynamics 365<br>
-  🔐 Interesse em Cybersecurity, arquitetura de sistemas e desenvolvimento seguro
+  🎓 Information Security Student at Fatec São Caetano do Sul<br>
+  💼 Software Development Intern at Best Projects<br>
+  💻 Developing with Python, C#, JavaScript, SQL, and Power Fx<br>
+  ⚙️ Process Automation with Power Apps, Power Automate, and Dynamics 365<br>
+  🔐 Focused on Cybersecurity, Secure Development (AppSec), and System Architecture
 </p>
 
 ---
 
-## 💫 Sobre Mim
+## 💫 About Me
 
-Sou estudante de **Segurança da Informação** na Fatec São Caetano do Sul e atualmente atuo como estagiário de desenvolvimento na **Best Projects**, trabalhando com soluções Microsoft, automação de processos e desenvolvimento de aplicações.
+I am an **Information Security** undergraduate at Fatec São Caetano do Sul and currently work as a Development Intern at **Best Projects**, focusing on enterprise Microsoft solutions, process automation, and application development.
 
-No ambiente profissional, tenho contato com **Power Apps, Power Automate, Power Fx, Dynamics 365/Dataverse, C#, JavaScript e SQL**, participando do desenvolvimento e manutenção de soluções corporativas, automações e processos de integração.
+In my current role, I actively build and maintain corporate solutions, automated workflows, and system integrations using **Power Apps, Power Automate, Power Fx, Dynamics 365/Dataverse, C#, JavaScript, and SQL**.
 
-Fora do trabalho, venho aprofundando meus conhecimentos em **Python, Programação Orientada a Objetos, Linux, redes e fundamentos de Cybersecurity**, utilizando projetos pessoais e plataformas de laboratório para colocar o conhecimento em prática.
+Outside of work, I sharpen my technical skills in **Python, Object-Oriented Programming (OOP), Linux, Computer Networking, and Cybersecurity fundamentals**, applying these concepts through personal projects and hands-on lab environments.
 
-Tenho um interesse especial por **arquitetura de sistemas e segurança**, buscando entender não apenas como desenvolver uma aplicação, mas também como estruturar seus componentes, proteger seus dados e construir soluções mais confiáveis.
+I have a strong interest in **system architecture and defensive security**, aiming not only to build functional applications, but to structure their components securely, protect sensitive data, and design resilient systems from the ground up.
 
-Meu objetivo é construir uma carreira em **Cybersecurity**, unindo desenvolvimento, automação e conhecimentos de segurança para desenvolver e analisar sistemas de forma cada vez mais segura.
+My career goal is to transition full-time into **Cybersecurity**—specifically in **Application Security (AppSec) and Security Architecture**—leveraging my software development background to build, audit, and defend modern systems.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tech Stack & Tools
 
-### 💻 Desenvolvimento
+### 💻 Languages & Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,7 +36,7 @@ Meu objetivo é construir uma carreira em **Cybersecurity**, unindo desenvolvime
   <img src="https://img.shields.io/badge/Power_Fx-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
-### ⚙️ Microsoft e Automação
+### ⚙️ Microsoft Ecosystem & Automation
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
@@ -45,7 +45,7 @@ Meu objetivo é construir uma carreira em **Cybersecurity**, unindo desenvolvime
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
-### 🔧 Ferramentas
+### 🔧 Developer Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -56,71 +56,71 @@ Meu objetivo é construir uma carreira em **Cybersecurity**, unindo desenvolvime
 
 ---
 
-## 📌 Projetos
+## 📌 Featured Projects
 
-### 🏦 Sistema Bancário — Python
+### 🏦 Banking System Simulator — Python
 
-Projeto desenvolvido para aprofundar conhecimentos em **Programação Orientada a Objetos e organização de sistemas**, simulando operações bancárias como cadastro de clientes, contas, depósitos, saques e transferências.
+A modular CLI application built to master **Object-Oriented Programming (OOP) and clean system design**, simulating core banking operations including customer registration, account management, deposits, withdrawals, and transfers.
 
-O projeto utiliza conceitos de **abstração, herança, encapsulamento e polimorfismo**, com diferentes tipos de conta e regras específicas para cada uma.
+Implements **abstraction, inheritance, encapsulation, and polymorphism** to enforce distinct business rules across different account types.
 
-🔗 [Repositório](https://github.com/pietro-sys/Banco-Py)
-
----
-
-### 🔐 Gerador de Senhas — Python
-
-Aplicação desenvolvida em Python para geração de senhas aleatórias, explorando **lógica de programação, automação, validações e manipulação de dados**.
-
-Possui geração de múltiplas senhas, classificação de força e cópia automática para a área de transferência.
-
-🔗 [Repositório](https://github.com/pietro-sys/Gerador-de-Senhas)
+🔗 [View Repository](https://github.com/pietro-sys/Banco-Py)
 
 ---
 
-### 🔐 Gerador de Senhas — C#
+### 🔐 Password Generator & Strength Analyzer — Python
 
-Versão do gerador de senhas desenvolvida em **C#**, utilizada para praticar conceitos da linguagem e Programação Orientada a Objetos.
+A security-focused utility developed in Python to generate cryptographically strong random passwords, exploring **automation, input validation, and data handling**.
 
-🔗 [Repositório](https://github.com/pietro-sys/Gerador-de-senha-C)
+Features batch password generation, real-time strength classification, and automated clipboard integration.
+
+🔗 [View Repository](https://github.com/pietro-sys/Gerador-de-Senhas)
 
 ---
 
-## 🧪 Prática em Cybersecurity
+### 🔐 Password Generator — C#
+
+A C# implementation of the password generator utility, built to reinforce static typing, .NET fundamentals, and Object-Oriented design patterns.
+
+🔗 [View Repository](https://github.com/pietro-sys/Gerador-de-senha-C)
+
+---
+
+## 🧪 Hands-On Cybersecurity Practice
 
 ### TryHackMe
 
-Utilizo laboratórios práticos para desenvolver conhecimentos em:
+I regularly complete practical labs and security challenges focused on:
 
-* Linux
-* Redes de computadores
-* Fundamentos de Cybersecurity
-* Sistemas operacionais
-* Segurança defensiva
-* Fundamentos de segurança ofensiva
+- Linux administration and hardening
+- Computer networking and protocols
+- Core Cybersecurity principles
+- Operating system internals
+- Defensive security (Blue Team) fundamentals
+- Offensive security (Pentesting) basics
 
-🔗 [Meu perfil no TryHackMe](#)
-
----
-
-## 🌱 Atualmente Estudando
-
-* 🐍 Python aplicado à Cybersecurity
-* 🏗️ Arquitetura de software
-* 🔐 Desenvolvimento seguro
-* 🛡️ Fundamentos de Cybersecurity
-* 🌐 Redes de computadores
-* 🐧 Linux
-* ☁️ Microsoft Azure
-* 🗄️ SQL e bancos de dados
-* 🔗 Fundamentos de Blockchain
-* 🧪 Fundamentos de Pentest
+🔗 [TryHackMe Profile](#) *(Remember to add your profile link here!)*
 
 ---
 
-## 🎯 Objetivos
+## 🌱 Currently Learning
 
-* Aprofundar meus conhecimentos em **Cybersecurity**
-* Desenvolver uma base sólida em **arquitetura e segurança de sistemas**
-* Evoluir em **Python, desenvolvimento seguro e automação**
-* Aprimorar conhecimentos em
+- 🐍 Python for Cybersecurity & Automation
+- 🏗️ Software & Security Architecture
+- 🔐 Secure Coding & Application Security (AppSec)
+- 🛡️ Blue Team Operations & Defensive Security
+- 🌐 Network Security & Protocols
+- 🐧 Linux Fundamentals & CLI
+- ☁️ Cloud Security & Microsoft Azure
+- 🗄️ Database Security & SQL
+- 🔗 Blockchain Fundamentals
+- 🧪 Penetration Testing Methodologies
+
+---
+
+## 🎯 Career Goals
+
+- Transition into a dedicated **Cybersecurity** role (AppSec, Blue Team, or Security Engineering)
+- Build a rock-solid foundation in **system architecture and threat modeling**
+- Advance my skills in **Python security scripting, secure development, and automation**
+- Deepen my expertise in **cloud security, network defense, and vulnerability analysis**
