@@ -99,7 +99,7 @@ I regularly complete practical labs and security challenges focused on:
 - Defensive security (Blue Team) fundamentals
 - Offensive security (Pentesting) basics
 
-🔗 [TryHackMe Profile](#) *(Remember to add your profile link here!)*
+🔗 [TryHackMe Profile](#) 
 
 ---
 
